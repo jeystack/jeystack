@@ -1,4 +1,4 @@
-# Hi, I'm Jeremy 👋
+# Hi, ich bin Jeremy 👋
 
 Softwareentwickler mit Fokus auf Python, JavaScript und Webtechnologien. Ich habe mich über Python selbst ans Programmieren herangetastet und daraus einen kompletten Karrierewechsel gemacht. Seitdem baue ich meinen Stack konsequent aus.
 
