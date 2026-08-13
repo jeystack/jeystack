@@ -17,14 +17,6 @@ Softwareentwickler mit Fokus auf Python, JavaScript und Webtechnologien. Ich hab
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeystack&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeystack&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeystack&hide_border=true)
-
 ## 📫 Kontakt
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeremy.njumbe1301@gmail.com)
