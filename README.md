@@ -1,22 +1,24 @@
-# Hi, ich bin Jeremy 👋
+# Jeremy Njumbe
 
-Softwareentwickler mit Fokus auf Python, JavaScript und Webtechnologien. Ich habe mich über Python selbst ans Programmieren herangetastet und daraus einen kompletten Karrierewechsel gemacht. Seitdem baue ich meinen Stack konsequent aus.
+Angehender Fachinformatiker Anwendungsentwicklung · Fokus Python & KI-gestützte Anwendungen
 
-- 💻 Ich arbeite mit **Python, JavaScript, HTML & CSS** und nutze regelmäßig **Git**
-- 🌱 Aktuell vertiefe ich **Java** und erweitere meinen Stack nach Anforderung
-- 🤖 Sehr interessiert an **Künstlicher Intelligenz** und arbeite auch praktisch damit
-- ⚡ Ich bin gewillt, mich schnell in neue Sprachen und Technologien einzuarbeiten
-- 📫 Erreichbar unter jeremy.njumbe1301@gmail.com
+Wechsle aus Vertrieb/IT-Beratung in die Softwareentwicklung. Aktuell in einer 24-monatigen Umschulung (BfZ-Essen, bis 06/2028), baue parallel eigene Projekte und suche eine 11-monatige Praxisphase ab 08/2027.
 
-## 🛠️ Sprachen & Tools
+**Stack:** Python · SQL · HTML/CSS/JS · Java (in Arbeit) · Git
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+📫 jeremy.njumbe1301@gmail.com · Haltern am See, DE
 
-## 📫 Kontakt
+---
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeremy.njumbe1301@gmail.com)
+## Projekte
+
+### Prayer & Quran App
+`HTML` `CSS` `JavaScript`
+
+Web-App zum Anzeigen von Gebetszeiten, Abhaken der Gebete und Lesen des Qurans.
+
+- **Features:** Gebetszeiten berechnet für den eigenen Standort (nicht statisch), Gebete als erledigt markieren, Quran-Text durchblättern
+- **Prozess:** Gebetszeiten werden nicht hardcodiert oder über eine bezahlte API geholt, sondern mit `adhan.esm.js` direkt aus Koordinaten berechnet (Berechnungsmethode: Muslim World League). Abgehakte Gebete bleiben über `localStorage` auch nach einem Reload erhalten. Der Quran-Text liegt lokal als JSON vor.
+- **Ausführen:** [kurzer Setup-Befehl, z. B. index.html im Browser öffnen oder `npx serve`]
+
+→ [Repo](https://github.com/jeystack/prayer-quran-app)
