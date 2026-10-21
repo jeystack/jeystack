@@ -19,7 +19,7 @@ hardened Proxmox server, step by step. Every change comes with a verification st
 |---|---------|--------|
 | 01 | Hardware intake and BIOS/UEFI security baseline | ✅ published |
 | 02 | Home network security baseline: router, Wi-Fi, lab switch | ✅ published |
-| 03 | Proxmox VE deployment and access control (least privilege, 2FA) | 🔧 in progress |
+| 03 | Proxmox VE deployment and access control (least privilege, 2FA, key-only SSH) | ✅ published |
 | 04 | Network design and segmentation: VLANs, firewall between lab networks | planned |
 
 Next: Windows Server with Active Directory, DNS and DHCP · automation with Bash and PowerShell.
