@@ -1,46 +1,60 @@
-# Hi, I'm Jeremy
+# Jeremy Njumbe – IT Specialist for System Integration in training
 
-Career changer from sales into IT. I'm retraining as an **IT specialist (Fachinformatiker, IHK)**
-at BFZ-Essen, 06/2026 – 06/2028. I'm currently in the shared foundation phase and moving towards
-**systems administration** – Linux, networking and virtualization – with a strong interest in IT security.
+**Linux · Networking · Virtualization · IT Security**
+Retraining as Fachinformatiker für Systemintegration (IHK) at BFZ-Essen · 06/2026 – 06/2028
 
-**Looking for:** an internship for my practical phase, **09 Aug 2027 – 23 Jun 2028**,
-on-site in NRW or hybrid/remote – with the goal of staying on afterwards.
-
-## How I got here
-- ~5 years in sales – most recently placing IT freelancers in client projects,
-  which is what got me into IT
-- Taught myself Python with Harvard's **CS50P**, then started the retraining
-- In the retraining I found what I enjoy most: Linux, networks and security
-- From sales I bring the habit of listening to what users actually need and explaining technical things clearly
-
-## Projects
-**[home-lab](https://github.com/jeystack/home-lab)** – my Linux workstation (Ubuntu, encrypted dual boot)
-and a KVM security lab with an isolated network. Every step is documented: setup, decisions
-and troubleshooting logs. *Work in progress.*
-
-**[Prayer & Qur'an App](https://github.com/jeystack/prayer-quran-app)** – an installable
-Progressive Web App: daily prayer times (Adhan.js), a prayer checklist with localStorage
-and a Qur'an reader in Arabic and English. Vanilla HTML/CSS/JavaScript, service worker
-for offline use, deployed via GitHub Actions to GitHub Pages.
-→ [Live demo](https://jeystack.github.io/prayer-quran-app/)
-
-**[python-umschulung](https://github.com/jeystack/python-umschulung)** – my assignments from the
-retraining, reworked after class: test tables, bugs I found and lessons learned.
-
-## Tech
-- **Systems:** Linux (Ubuntu, Kali in VMs) · Bash · KVM/libvirt · networking basics (TCP/IP, DHCP, routing)
-- **Code:** Python · JavaScript · HTML · CSS
-- **Tools:** Git & GitHub · GitHub Actions / Pages · AI-assisted learning with Claude Code
-
-Next up in my lab: an Ubuntu Server VM as a target and hardening it along the CIS Benchmarks.
-
-## Languages
-German & English (native, grew up bilingual)
+> **Looking for an internship in systems administration** for my practical phase
+> **09 Aug 2027 – 23 Jun 2028** · on-site in NRW or hybrid/remote · goal: staying on after my retraining
+>
+> Contact: jeremy.njumbe1301@gmail.com · [LinkedIn](https://www.linkedin.com/in/j-njumbe) · [XING](https://www.xing.com/profile/Jeremy_Njumbe05239)
 
 ---
 
-**Kurz auf Deutsch:** Umschüler Fachinformatiker (IHK) bei der BFZ-Essen, Schwerpunkt Richtung
-Systemadministration und IT-Sicherheit. Ich suche einen Praktikumsbetrieb für die Praxisphase vom
-09.08.2027 bis 23.06.2028 – in NRW vor Ort oder hybrid/remote, gern mit Perspektive auf Übernahme.
-Kontakt: jeremy.njumbe1301@gmail.com
+## My homelab – documented like production
+
+**[homelab-portfolio](https://github.com/jeystack/homelab-portfolio)**: turning a used Lenovo ThinkCentre into a
+hardened Proxmox server, step by step. Every change comes with a verification step and a rollback plan.
+
+| # | Project | Status |
+|---|---------|--------|
+| 01 | Hardware intake and BIOS/UEFI security baseline | ✅ published |
+| 02 | Home network security baseline: router, Wi-Fi, lab switch | ✅ published |
+| 03 | Proxmox VE deployment and access control (least privilege, 2FA) | 🔧 in progress |
+| 04 | Network design and segmentation: VLANs, firewall between lab networks | planned |
+
+Next: Windows Server with Active Directory, DNS and DHCP · automation with Bash and PowerShell.
+
+## How I work
+
+- **Plan first:** goal, risk and rollback idea before every change.
+- **Record the starting state**, then change one thing at a time.
+- **Verify and log:** every change gets evidence and a changelog line.
+- **No secrets in repos:** passwords live in a password manager; only sanitized case studies are public.
+
+## Skills
+
+| Area | Current level |
+|------|---------------|
+| Systems | Linux (Ubuntu), Windows 11, Bash, Proxmox VE (basics), KVM/libvirt |
+| Networking | TCP/IP, IP addressing, DHCP, routing basics, structured troubleshooting |
+| Security | BIOS/UEFI and system hardening, firewall (ufw), SSH keys, 2FA, encryption (LUKS, BitLocker) |
+| Code & tools | Python (basics), Git and GitHub, documentation in Markdown |
+
+## Learning path
+
+- **Retraining FISI (IHK)**, BFZ-Essen: operating systems, Linux and virtualization (grade 1 = top grade), networking, IT security
+- **Cisco Networking Academy:** Junior Cybersecurity Analyst Career Path, Networking Basics, Operating Systems Basics, Hardware and Upgrade Support · in progress: Ethical Hacker
+- **Harvard CS50P:** Introduction to Programming with Python
+- **[python-umschulung](https://github.com/jeystack/python-umschulung)**: assignments from my retraining, reworked with test tables and lessons learned
+
+## Why IT?
+
+Five years in sales and customer service, most recently placing IT freelancers in client projects. Aligning
+requirements with IT managers showed me that I'm more interested in the technology itself. What I bring
+from that time: listening to what users actually need and explaining technical solutions clearly.
+
+---
+
+**Kurz auf Deutsch:** Umschüler zum Fachinformatiker für Systemintegration (IHK) bei der BFZ-Essen, Schwerpunkt
+Systemadministration und IT-Sicherheit. Ich suche ein Praktikum für meine Praxisphase vom 09.08.2027 bis 23.06.2028,
+in NRW vor Ort oder hybrid/remote, gern mit Perspektive auf Übernahme. Deutsch und Englisch sind beide meine Muttersprache.
