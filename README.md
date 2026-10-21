@@ -43,7 +43,7 @@ Next: Windows Server with Active Directory, DNS and DHCP · automation with Bash
 ## Learning path
 
 - **Retraining FISI (IHK)**, BFZ-Essen: operating systems, Linux and virtualization (grade 1 = top grade), networking, IT security
-- **Cisco Networking Academy:** Junior Cybersecurity Analyst Career Path, Networking Basics, Operating Systems Basics, Hardware and Upgrade Support · in progress: Ethical Hacker
+- **Cisco Networking Academy:** Junior Cybersecurity Analyst Career Path, Networking Basics, Operating Systems Basics, Hardware and Upgrade Support
 - **Harvard CS50P:** Introduction to Programming with Python
 - **[python-umschulung](https://github.com/jeystack/python-umschulung)**: assignments from my retraining, reworked with test tables and lessons learned
 
