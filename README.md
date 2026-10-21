@@ -1,6 +1,7 @@
 # Jeremy Njumbe – IT Specialist for System Integration in training
 
 **Linux · Networking · Virtualization · IT Security**
+
 Retraining as Fachinformatiker für Systemintegration (IHK) at BFZ-Essen · 06/2026 – 06/2028
 
 > **Looking for an internship in systems administration** for my practical phase
