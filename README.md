@@ -20,9 +20,10 @@ hardened Proxmox server, step by step. Every change comes with a verification st
 | 01 | Hardware intake and BIOS/UEFI security baseline | ✅ published |
 | 02 | Home network security baseline: router, Wi-Fi, lab switch | ✅ published |
 | 03 | Proxmox VE deployment and access control (least privilege, 2FA, key-only SSH) | ✅ published |
-| 04 | Network design and segmentation: VLANs, firewall between lab networks | planned |
+| 04 | Isolated virtual lab: network isolation, verified installers, Windows and Linux server baselines | ✅ part 1 published |
+| 05 | Network design and segmentation: VLANs, firewall between lab networks | planned |
 
-Next: Windows Server with Active Directory, DNS and DHCP · automation with Bash and PowerShell.
+Next: Active Directory, DNS and DHCP in the isolated lab · automation with Bash and PowerShell.
 
 ## How I work
 
@@ -35,9 +36,9 @@ Next: Windows Server with Active Directory, DNS and DHCP · automation with Bash
 
 | Area | Current level |
 |------|---------------|
-| Systems | Linux (Ubuntu), Windows 11, Bash, Proxmox VE (basics), KVM/libvirt |
+| Systems | Linux (Ubuntu), Windows 11, Windows Server (installation, basics), Bash, Proxmox VE (basics), VMware Workstation, KVM/libvirt |
 | Networking | TCP/IP, IP addressing, DHCP, routing basics, structured troubleshooting |
-| Security | BIOS/UEFI and system hardening, firewall (ufw), SSH keys, 2FA, encryption (LUKS, BitLocker) |
+| Security | BIOS/UEFI and system hardening, network isolation for lab VMs, installer verification (hash, signature), firewall rules (ufw, Windows Firewall), SSH keys, 2FA, encryption (LUKS, BitLocker) |
 | Code & tools | Python (basics), Git and GitHub, documentation in Markdown |
 
 ## Learning path
