@@ -6,7 +6,7 @@ Retraining as Fachinformatiker für Systemintegration (IHK) at BFZ-Essen · 06/2
 > **Looking for an internship in systems administration** for my practical phase
 > **09 Aug 2027 – 23 Jun 2028** · on-site in NRW or hybrid/remote · goal: staying on after my retraining
 >
-> Contact: jeremy.njumbe1301@gmail.com · [LinkedIn](https://www.linkedin.com/in/j-njumbe) · [XING](https://www.xing.com/profile/Jeremy_Njumbe05239)
+> Contact: jeremy.njumbe1301@gmail.com · [LinkedIn](https://www.linkedin.com/in/j-njumbe)
 
 ---
 
