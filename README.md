@@ -20,10 +20,9 @@ hardened Proxmox server, step by step. Every change comes with a verification st
 | 01 | Hardware intake and BIOS/UEFI security baseline | ✅ published |
 | 02 | Home network security baseline: router, Wi-Fi, lab switch | ✅ published |
 | 03 | Proxmox VE deployment and access control (least privilege, 2FA, key-only SSH) | ✅ published |
-| 04 | Isolated virtual lab: network isolation, verified installers, Windows and Linux server baselines | ✅ part 1 published |
-| 05 | Network design and segmentation: VLANs, firewall between lab networks | planned |
+| 04 | Network design and segmentation: VLANs, firewall between lab networks | planned |
 
-Next: Active Directory, DNS and DHCP in the isolated lab · automation with Bash and PowerShell.
+Next: network segmentation with VLANs and a firewall · Active Directory, DNS and DHCP · automation with Bash and PowerShell.
 
 ## How I work
 
@@ -36,15 +35,15 @@ Next: Active Directory, DNS and DHCP in the isolated lab · automation with Bash
 
 | Area | Current level |
 |------|---------------|
-| Systems | Linux (Ubuntu), Windows 11, Windows Server (installation, basics), Bash, Proxmox VE (basics), VMware Workstation, KVM/libvirt |
+| Systems | Linux (Ubuntu), Windows 11, Windows Server (installation, basics), Bash, Proxmox VE (basics), KVM/libvirt |
 | Networking | TCP/IP, IP addressing, DHCP, routing basics, structured troubleshooting |
-| Security | BIOS/UEFI and system hardening, network isolation for lab VMs, installer verification (hash, signature), firewall rules (ufw, Windows Firewall), SSH keys, 2FA, encryption (LUKS, BitLocker) |
+| Security | BIOS/UEFI and system hardening, guest network isolation, installer verification (hash, signature), firewall rules (ufw), SSH keys, 2FA, encryption (LUKS, BitLocker) |
 | Code & tools | Python (basics), Git and GitHub, documentation in Markdown |
 
 ## Learning path
 
 - **Retraining FISI (IHK)**, BFZ-Essen: operating systems, Linux and virtualization (grade 1 = top grade), networking, IT security
-- **Cisco Networking Academy:** Junior Cybersecurity Analyst Career Path, Networking Basics, Operating Systems Basics, Hardware and Upgrade Support
+- **Cisco Networking Academy:** Junior Cybersecurity Analyst Career Path, Introduction to Cybersecurity, Networking Basics, Operating Systems Basics, Hardware and Upgrade Support
 - **Harvard CS50P:** Introduction to Programming with Python
 - **[python-umschulung](https://github.com/jeystack/python-umschulung)**: assignments from my retraining, reworked with test tables and lessons learned
 
