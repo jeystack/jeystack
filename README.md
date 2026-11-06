@@ -22,6 +22,9 @@ hardened Proxmox server, step by step. Every change comes with a verification st
 | 03 | Proxmox VE deployment and access control (least privilege, 2FA, key-only SSH) | ✅ published |
 | 04 | Network design and segmentation: VLANs, firewall between lab networks | planned |
 
+**[lamp-server](https://github.com/jeystack/lamp-server)** *(in progress)*: Debian VM on Proxmox for Apache, MariaDB and PHP.
+Phase 0 done: ISO verified by checksum and GPG signature, static IP planned outside the DHCP range.
+
 Next: network segmentation with VLANs and a firewall · Active Directory, DNS and DHCP · automation with Bash and PowerShell.
 
 ## How I work
