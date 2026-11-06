@@ -38,7 +38,7 @@ Next: network segmentation with VLANs and a firewall · Active Directory, DNS an
 
 | Area | Current level |
 |------|---------------|
-| Systems | Linux (Ubuntu), Windows 11, Windows Server (installation, basics), Bash, Proxmox VE (basics), KVM/libvirt |
+| Systems | Linux (Ubuntu), Windows 11, Bash, Proxmox VE (basics), KVM/libvirt |
 | Networking | TCP/IP, IP addressing, DHCP, routing basics, structured troubleshooting |
 | Security | BIOS/UEFI and system hardening, guest network isolation, installer verification (hash, signature), firewall rules (ufw), SSH keys, 2FA, encryption (LUKS, BitLocker) |
 | Code & tools | Python (basics), Git and GitHub, documentation in Markdown |
